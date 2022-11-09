@@ -13,8 +13,10 @@ namespace KCheck2
 		
 		public void display(){
 			Console.WriteLine("I am an animal ");
-		}	
-		
+		}
+		public int fur = x;
+		public int feet = false;
+	
 	}
 
 	class warmBlooded: Animal //child
@@ -44,37 +46,37 @@ namespace KCheck2
 	bird.getNoise();
 		//Code Louisville Code
 		// forr every warmBlooded in list "(cat name) has (tail amount) and (feather)
-		
+
 		Console.WriteLine("How many traits do you want to add? ");
 		var numberOfTraits = int.Parse(Console.ReadLine());
 
 		var traitsList = new List<warmBlooded>();
 		for (int i = 0; i < numberOfTraits; i++)
-		{
+{
 		// In this loop, populate the object's properties using Console.ReadLine()
 		var warmBlooded = new warmBlooded();
 
-		Console.WriteLine("Enter the value for ");
+	Console.WriteLine("Enter the value for ");
 		string traits = Console.ReadLine();
     
 
-
+    
 		Console.WriteLine ("birds also have " + traits);
-		
+
 		Console.ReadLine();
 }
 
 // Print out the list of records using Console.WriteLine()
 
-	}
+    }
 
 // Print out the list of records using Console.WriteLine()
 // forr every warmBlooded in list "(cat name) has (tail amount) and (feather)
 
 
 
-	}
     }
-	
+	}
+
 
 
