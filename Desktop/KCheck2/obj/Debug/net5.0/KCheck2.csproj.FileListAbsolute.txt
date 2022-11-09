@@ -1,0 +1,16 @@
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.csproj.AssemblyReference.cache
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.AssemblyInfoInputs.cache
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.AssemblyInfo.cs
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.csproj.CoreCompileInputs.cache
+C:\Users\azari\Desktop\KCheck2\bin\Debug\net5.0\KCheck2.exe
+C:\Users\azari\Desktop\KCheck2\bin\Debug\net5.0\KCheck2.deps.json
+C:\Users\azari\Desktop\KCheck2\bin\Debug\net5.0\KCheck2.runtimeconfig.json
+C:\Users\azari\Desktop\KCheck2\bin\Debug\net5.0\KCheck2.runtimeconfig.dev.json
+C:\Users\azari\Desktop\KCheck2\bin\Debug\net5.0\KCheck2.dll
+C:\Users\azari\Desktop\KCheck2\bin\Debug\net5.0\KCheck2.pdb
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.dll
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\refint\KCheck2.dll
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.pdb
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\KCheck2.genruntimeconfig.cache
+C:\Users\azari\Desktop\KCheck2\obj\Debug\net5.0\ref\KCheck2.dll
